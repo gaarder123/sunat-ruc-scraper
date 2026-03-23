@@ -7,4 +7,4 @@ pip install -r requirements.txt
 playwright install
 
 ## Uso
-python script.py
+python scraping_Sunat.py
